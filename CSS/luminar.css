@@ -1,0 +1,50 @@
+
+.carousel-inner {
+    height: 500px;
+}
+.carousel-caption {
+    top: 90px;
+    bottom: auto;
+    text-align: left;
+    opacity: 1px;
+    left: 140px;
+}
+.modal-body {
+    position: relative;
+}
+input {
+    outline: none;
+    border: white;
+}
+textarea {
+    outline: none;
+    border: white;
+}
+.a1 {
+    height: 60px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: solid blueviolet;
+    margin-top: 60px;
+}
+.b1 {
+    height: 60px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: solid blueviolet;
+    margin-top: 20px;
+}
+.c1 {
+    height: 50px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    border: blueviolet;
+}
+.im1{
+    width: 20%;
+}
